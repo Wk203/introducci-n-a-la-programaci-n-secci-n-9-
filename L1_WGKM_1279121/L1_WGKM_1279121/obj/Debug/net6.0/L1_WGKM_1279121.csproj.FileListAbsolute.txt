@@ -1,0 +1,15 @@
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\L1_WGKM_1279121.csproj.AssemblyReference.cache
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\L1_WGKM_1279121.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\L1_WGKM_1279121.AssemblyInfoInputs.cache
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\L1_WGKM_1279121.AssemblyInfo.cs
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\L1_WGKM_1279121.csproj.CoreCompileInputs.cache
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\bin\Debug\net6.0\L1_WGKM_1279121.exe
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\bin\Debug\net6.0\L1_WGKM_1279121.deps.json
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\bin\Debug\net6.0\L1_WGKM_1279121.runtimeconfig.json
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\bin\Debug\net6.0\L1_WGKM_1279121.dll
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\bin\Debug\net6.0\L1_WGKM_1279121.pdb
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\L1_WGKM_1279121.dll
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\refint\L1_WGKM_1279121.dll
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\L1_WGKM_1279121.pdb
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\L1_WGKM_1279121.genruntimeconfig.cache
+C:\Users\kleea\Desktop\}ajaj\L1_WGKM_1279121\L1_WGKM_1279121\obj\Debug\net6.0\ref\L1_WGKM_1279121.dll

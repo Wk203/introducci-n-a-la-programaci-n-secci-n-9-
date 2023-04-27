@@ -1,0 +1,8 @@
+C:\Users\kleea\Desktop\}ajaj\L7_WGKM_1279121\L7_WGKM_1279121\bin\Debug\L7_WGKM_1279121.exe.config
+C:\Users\kleea\Desktop\}ajaj\L7_WGKM_1279121\L7_WGKM_1279121\bin\Debug\L7_WGKM_1279121.exe
+C:\Users\kleea\Desktop\}ajaj\L7_WGKM_1279121\L7_WGKM_1279121\bin\Debug\L7_WGKM_1279121.pdb
+C:\Users\kleea\Desktop\}ajaj\L7_WGKM_1279121\L7_WGKM_1279121\obj\Debug\L7_WGKM_1279121.csproj.AssemblyReference.cache
+C:\Users\kleea\Desktop\}ajaj\L7_WGKM_1279121\L7_WGKM_1279121\obj\Debug\L7_WGKM_1279121.csproj.SuggestedBindingRedirects.cache
+C:\Users\kleea\Desktop\}ajaj\L7_WGKM_1279121\L7_WGKM_1279121\obj\Debug\L7_WGKM_1279121.csproj.CoreCompileInputs.cache
+C:\Users\kleea\Desktop\}ajaj\L7_WGKM_1279121\L7_WGKM_1279121\obj\Debug\L7_WGKM_1279121.exe
+C:\Users\kleea\Desktop\}ajaj\L7_WGKM_1279121\L7_WGKM_1279121\obj\Debug\L7_WGKM_1279121.pdb

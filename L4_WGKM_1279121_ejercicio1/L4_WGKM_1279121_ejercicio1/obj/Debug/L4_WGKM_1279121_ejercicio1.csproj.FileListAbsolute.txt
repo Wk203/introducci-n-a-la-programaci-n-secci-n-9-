@@ -1,0 +1,8 @@
+C:\Users\kleea\Desktop\}ajaj\L4_WGKM_1279121_ejercicio1\L4_WGKM_1279121_ejercicio1\bin\Debug\L4_WGKM_1279121_ejercicio1.exe.config
+C:\Users\kleea\Desktop\}ajaj\L4_WGKM_1279121_ejercicio1\L4_WGKM_1279121_ejercicio1\bin\Debug\L4_WGKM_1279121_ejercicio1.exe
+C:\Users\kleea\Desktop\}ajaj\L4_WGKM_1279121_ejercicio1\L4_WGKM_1279121_ejercicio1\bin\Debug\L4_WGKM_1279121_ejercicio1.pdb
+C:\Users\kleea\Desktop\}ajaj\L4_WGKM_1279121_ejercicio1\L4_WGKM_1279121_ejercicio1\obj\Debug\L4_WGKM_1279121_ejercicio1.csproj.AssemblyReference.cache
+C:\Users\kleea\Desktop\}ajaj\L4_WGKM_1279121_ejercicio1\L4_WGKM_1279121_ejercicio1\obj\Debug\L4_WGKM_1279121_ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kleea\Desktop\}ajaj\L4_WGKM_1279121_ejercicio1\L4_WGKM_1279121_ejercicio1\obj\Debug\L4_WGKM_1279121_ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\kleea\Desktop\}ajaj\L4_WGKM_1279121_ejercicio1\L4_WGKM_1279121_ejercicio1\obj\Debug\L4_WGKM_1279121_ejercicio1.exe
+C:\Users\kleea\Desktop\}ajaj\L4_WGKM_1279121_ejercicio1\L4_WGKM_1279121_ejercicio1\obj\Debug\L4_WGKM_1279121_ejercicio1.pdb

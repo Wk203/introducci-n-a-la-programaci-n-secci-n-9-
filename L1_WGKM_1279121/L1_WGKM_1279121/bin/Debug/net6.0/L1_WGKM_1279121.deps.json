@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "L1_WGKM_1279121/1.0.0": {
+        "runtime": {
+          "L1_WGKM_1279121.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L1_WGKM_1279121/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
